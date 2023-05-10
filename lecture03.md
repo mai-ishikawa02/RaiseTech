@@ -5,11 +5,11 @@
 - APサーバー名：puma
 - バージョン：puma version 5.6.5
 
-![01.puma](https:/lecture01/repository_dir/RaiseTech/image/01.puma)
+![01.puma](https://home/ec2-user/environment/repository_dir/RaiseTech/image/01.puma)
 
 - APサーバーを終了させるとOopsが表示されてアクセスできない。
 
-![02.puma](https:/lecture01/repository_dir/RaiseTech/image/02.puma_shut)
+![02.puma](https:/home/ec2-user/environment/repository_dir/RaiseTech/image/02.puma_shut)
 
 - -bin/devコマンドを実行してAPサーバーを起動させると再度アクセスできた
 

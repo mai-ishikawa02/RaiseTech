@@ -13,7 +13,7 @@
 
 - -bin/devコマンドを実行してAPサーバーを起動させると再度アクセスできた
 
-![03.puma](mage/03.puma_restart.jpg)
+![03.puma](image/03.puma_restart.jpg)
 
 ![04.puma](image/04.puma_again.jpg)
 
